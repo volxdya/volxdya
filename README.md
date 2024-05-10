@@ -8,4 +8,5 @@
 ![Без названия(1)](https://github.com/l1agosta/l1agosta/assets/143471369/ba17cd12-a755-4746-8cd8-57be066d3225)
 ![image](https://github.com/l1agosta/l1agosta/assets/143471369/42b714a1-7f59-4be4-ad74-137a721fbd54)
 ![image](https://github.com/l1agosta/l1agosta/assets/143471369/5cf6252c-b1d3-4109-a53b-e8fd21d7dfe8)
+![Без названия](https://github.com/l1agosta/l1agosta/assets/143471369/224b2022-66bd-46d9-af5a-1fa71c2fc113)
 ![image](https://github.com/l1agosta/l1agosta/assets/143471369/3a542448-8a3a-47b0-a064-bb7121763d92)
