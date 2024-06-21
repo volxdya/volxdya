@@ -9,7 +9,6 @@
 </li>
 
 <h2>Contacts:</h2>
-<p>
 <a href="https://discord.com/users/1048235984749330504" target="_blank">
 	<img src="https://img.shields.io/badge/liagosta%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
@@ -17,7 +16,7 @@
 	<img src="https://img.shields.io/badge/liagosta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-# Stack
+<h1>Stack</h1>
 
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/72343766-221b-44d8-93fa-0d121f8b4421" height="125" width="125">
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/f9f8b92c-55b4-4579-a444-5fcb4f79948b" height="125" width="125">
@@ -31,4 +30,3 @@
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/5cf6252c-b1d3-4109-a53b-e8fd21d7dfe8" height="125" width="125">
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/224b2022-66bd-46d9-af5a-1fa71c2fc113" height="125" width="125">
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/3a542448-8a3a-47b0-a064-bb7121763d92" height="125" width="125">
-
