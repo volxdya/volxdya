@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Fullstack developer 
+<h1>👋 Hi, I'm Fullstack developer </h1>
+<h2>About me:</h2>
+<li>
+  <b>First name:</b> Vladimir</li>
+<li>
+  <b>Age:</b> 16</li>
+<li>
+  <b>Hobbies:</b> Traveling, DevOps engineering, Walikng with friends
+</li>
+
 # Stack
 
 <img src="https://github.com/l1agosta/l1agosta/assets/143471369/72343766-221b-44d8-93fa-0d121f8b4421" height="125" width="125">
