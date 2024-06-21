@@ -13,7 +13,7 @@
 <a href="https://discord.com/users/1048235984749330504" target="_blank">
 	<img src="https://img.shields.io/badge/liagosta%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="https://telegram.me/rasofex" target="_blank">
+<a href="https://telegram.me/volxdya" target="_blank">
 	<img src="https://img.shields.io/badge/liagosta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
