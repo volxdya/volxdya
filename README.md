@@ -21,6 +21,7 @@
 <a href="https://sass-scss.ru/"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/5d63328c-3491-4138-b135-143f14125ed7" height="100" width="100" /></a>
 <a href="https://vuejs.org/"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/ba17cd12-a755-4746-8cd8-57be066d3225" height="100" width="100" /></a>
 <a href="https://nestjs.com/"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/f290a2f9-03f7-47bc-bd5f-154e33b21c05" height="100" width="100" /></a>
+<a href="https://www.docker.com/"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="100" width="100" /></a>
 <a href="https://nextjs.org/"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/bffa924b-d8c1-494e-8723-071d529c66b6" height="100" width="100" /></a>
 <a href="https://nodejs.org/en"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/42b714a1-7f59-4be4-ad74-137a721fbd54" height="100" width="100" /></a>
 <a href="https://git-scm.com/"><img src="https://github.com/l1agosta/l1agosta/assets/143471369/5cf6252c-b1d3-4109-a53b-e8fd21d7dfe8" height="100" width="100" /></a>
