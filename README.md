@@ -5,7 +5,7 @@
 <li>
   <b>Age:</b> 16</li>
 <li>
-  <b>Hobbies:</b> Traveling, DevOps engineering, Walikng with friends
+  <b>Hobbies:</b> Math, Traveling, Walikng with friends
 </li>
 
 <h2>Contacts:</h2>
