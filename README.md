@@ -9,7 +9,7 @@
 </li>
 
 <h2>Contacts:</h2>
-<a href="https://telegram.me/volxdya" target="_blank"><img src="https://img.shields.io/badge/volxdya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/hoodrichlpablojuan" target="_blank"><img src="https://img.shields.io/badge/volxdya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/1048235984749330504" target="_blank"><img src="https://img.shields.io/badge/volxdya%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <h1>Stack</h1>
