@@ -1,11 +1,11 @@
-<h1>👋 Hi, I'm Backend (and some Frontend) developer </h1>
+<h1>Software Engineer</h1>
 <h2>About me:</h2>
 <li>
   <b>First name:</b> Vladimir</li>
 <li>
   <b>Age:</b> 16</li>
 <li>
-  <b>Hobbies:</b> Math, Traveling, Walikng with friends
+  <b>Hobbies:</b> Math, Traveling, Walikng with friends, Devops
 </li>
 
 <h2>Contacts:</h2>
